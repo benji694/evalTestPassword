@@ -1,0 +1,22 @@
+{
+  "name": "evaltestpassword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benji694/evalTestPassword.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benji694/evalTestPassword/issues"
+  },
+  "homepage": "https://github.com/benji694/evalTestPassword#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
